@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "368839533918",
+    "firebase_url": "https://bk-s-e100c.firebaseio.com",
+    "project_id": "bk-s-e100c",
+    "storage_bucket": "bk-s-e100c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368839533918:android:5ba6bcad640d9f6e",
+        "android_client_info": {
+          "package_name": "com.developmethis.partyflashlight.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368839533918-7ebs4o62eefurevs981m5bg2khh3tifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkAsOmRVL3KHOKJGhnevCu-Up4S707p0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
